@@ -1,0 +1,28 @@
+.footer {
+  background-color: #f7f7f7;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-links a {
+  margin-right: 10px;
+  color: #666;
+  transition: color 0.3s;
+}
+
+.social-media-links a:hover {
+  color: #007bff;
+}
+
+.social-media-links i {
+  font-size: 20px;
+}
